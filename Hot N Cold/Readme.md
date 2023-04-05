@@ -19,3 +19,4 @@ Fahrenheit to Celsius:
 4. Divide the result of step 3 by 9.
 
 5. The resulting number is the temperature in Celsius.
+
